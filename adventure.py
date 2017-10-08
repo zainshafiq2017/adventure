@@ -28,4 +28,3 @@ while True:
         position = new_pos
     else:
         print "sorry, that isn't a valid direction"
-    #position = valid_directions[direction]
